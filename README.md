@@ -103,14 +103,15 @@
 
 ## 📅 Optional Tools & Templates (To Be Shared Separately)
 
-* [ ] **Notion Template**: Learning roadmap, video links, daily tracker
-* [ ] **Excel Tracker**: Weekly goals, status, blockers, reflections
-* [ ] **LinkedIn Post Templates**:
+* [ ] [**Notion Template**](DevOps_Notion_Template.md): Learning roadmap, video links, daily tracker
+* [ ] [**Excel Tracker**](DevOps_FastTrack_Training_Tracker.xlsx): Weekly goals, status, blockers, reflections
+* [ ] [**LinkedIn Post Templates**](LinkedIn_Post_Templates):
 
   * Weekly updates
   * Tool explainers
   * Project launch/showcase posts
   * Failure → Fix → Learning stories
+  * And many more
 
 ---
 
