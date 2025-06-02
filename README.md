@@ -1,7 +1,7 @@
 # Fast-Track-DevOps-Training-Plan
 
 # 🔥 Fast-Track DevOps Training Plan (12 Weeks)
-[Fast-Track_DevOps_Training_Plan](Fast-Track_DevOps_Training_Plan.png)
+![Fast-Track_DevOps_Training_Plan](Fast-Track_DevOps_Training_Plan.png)
 
 **Fast-Track DevOps Training Plan for Beginners (12 Weeks)**
 
